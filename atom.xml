@@ -1,26 +1,52 @@
----
----
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>{{ site.title | xml_escape }}</title>
- <link href="{{ site.url }}/atom.xml" rel="self"/>
- <link href="{{ site.url }}/"/>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{ site.url }}</id>
+ <title>Hello. I'm Jan von Pichowski.</title>
+ <link href="https://jvpichowski.github.io//atom.xml" rel="self"/>
+ <link href="https://jvpichowski.github.io//"/>
+ <updated>2020-10-27T03:03:44-05:00</updated>
+ <id>https://jvpichowski.github.io/</id>
  <author>
-   <name>{{ site.admin_name }}</name>
-   <email>{{ site.data.global.admin_email }}</email>
+   <name>Jan von Pichowski</name>
+   <email></email>
  </author>
 
- {% for post in site.posts %}
+ 
  <entry>
-   <title>{{ post.title }}</title>
-   <link href="{{ site.url }}{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
+   <title>Phantom</title>
+   <link href="https://jvpichowski.github.io//development/design/2016/02/20/phantom-jekyll-template.html"/>
+   <updated>2016-02-20T15:15:00-06:00</updated>
+   <id>https://jvpichowski.github.io//development/design/2016/02/20/phantom-jekyll-template</id>
+   <content type="html">
+</content>
  </entry>
- {% endfor %}
+ 
+ <entry>
+   <title>Rescue Themes</title>
+   <link href="https://jvpichowski.github.io//development/design/2016/02/20/rescue-themes.html"/>
+   <updated>2016-02-20T09:56:00-06:00</updated>
+   <id>https://jvpichowski.github.io//development/design/2016/02/20/rescue-themes</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Weathercast</title>
+   <link href="https://jvpichowski.github.io//development/2016/02/20/weathercast.html"/>
+   <updated>2016-02-20T09:56:00-06:00</updated>
+   <id>https://jvpichowski.github.io//development/2016/02/20/weathercast</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bloc Jams Angular</title>
+   <link href="https://jvpichowski.github.io//development/2016/02/20/bloc-jams-angular.html"/>
+   <updated>2016-02-20T08:15:00-06:00</updated>
+   <id>https://jvpichowski.github.io//development/2016/02/20/bloc-jams-angular</id>
+   <content type="html">
+</content>
+ </entry>
+ 
 
 </feed>
