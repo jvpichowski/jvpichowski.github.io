@@ -5,28 +5,20 @@
     <description>I'm a curious student and a proud twin on my way through the world of software development.</description>
     <link>https://jvpichowski.github.io//</link>
     <atom:link href="https://jvpichowski.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Oct 2020 03:45:28 -0500</pubDate>
-    <lastBuildDate>Tue, 27 Oct 2020 03:45:28 -0500</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2020 03:58:34 -0500</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2020 03:58:34 -0500</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
-        <title>Hello</title>
-        <description>
+        <title>Competitions</title>
+        <description>&lt;h1 id=&quot;competitions&quot;&gt;Competitions&lt;/h1&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 26 Oct 2020 10:56:00 -0500</pubDate>
-        <link>https://jvpichowski.github.io//development/2020/10/26/hello.html</link>
-        <guid isPermaLink="true">https://jvpichowski.github.io//development/2020/10/26/hello.html</guid>
+        <pubDate>Tue, 27 Oct 2020 00:00:00 -0500</pubDate>
+        <link>https://jvpichowski.github.io//2020/10/27/hello.html</link>
+        <guid isPermaLink="true">https://jvpichowski.github.io//2020/10/27/hello.html</guid>
         
-        <category>JavaScript</category>
-        
-        <category>AngularJS</category>
-        
-        <category>API</category>
-        
-        <category>Sass</category>
-        
-        
-        <category>development</category>
         
       </item>
     
