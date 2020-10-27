@@ -5,9 +5,30 @@
     <description>I'm a curious student and a proud twin on my way through the world of software development.</description>
     <link>https://jvpichowski.github.io//</link>
     <atom:link href="https://jvpichowski.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Oct 2020 03:42:39 -0500</pubDate>
-    <lastBuildDate>Tue, 27 Oct 2020 03:42:39 -0500</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2020 03:45:28 -0500</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2020 03:45:28 -0500</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>Hello</title>
+        <description>
+</description>
+        <pubDate>Mon, 26 Oct 2020 10:56:00 -0500</pubDate>
+        <link>https://jvpichowski.github.io//development/2020/10/26/hello.html</link>
+        <guid isPermaLink="true">https://jvpichowski.github.io//development/2020/10/26/hello.html</guid>
+        
+        <category>JavaScript</category>
+        
+        <category>AngularJS</category>
+        
+        <category>API</category>
+        
+        <category>Sass</category>
+        
+        
+        <category>development</category>
+        
+      </item>
     
       <item>
         <title>Phantom</title>
