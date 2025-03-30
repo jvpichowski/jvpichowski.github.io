@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Jan von Pichowski",
+    "description": "",
+    "home_page_url": "https://jvpichowski.github.io",
+    "feed_url": "https://jvpichowski.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jan von Pichowski"
+    },
+    "items": [
+    ]
+}
